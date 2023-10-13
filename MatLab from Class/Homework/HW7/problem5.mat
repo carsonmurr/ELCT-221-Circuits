@@ -1,0 +1,9 @@
+clc
+clear all
+format compact
+
+%input data
+R=95;
+L=20e-3;
+C=4e-6;
+Is=35*exp(i*5042)e-3;
